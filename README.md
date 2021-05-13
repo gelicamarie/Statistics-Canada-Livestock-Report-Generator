@@ -18,22 +18,22 @@ The purpose of this project was to apply Software Engineering conventions learne
 
 ## 🚀 Building and Running
 1. Navigate to the folder of the program
- ```
-   cd [program file path]
-   e.g. cd comp2404final
- ```
+     ```
+       cd [program file path]
+       e.g. cd comp2404final
+     ```
  2. There are two choices for compilation
   * Choice A:
-  ```sh
-    make final
-  ```
-  ```sh
+    ```sh
+      make final
+     ```
+    ```sh
     ./final
-  ```
+     ```
   (To run with valgrind: )
-  ```sh
-    valgrind ./final
-  ```
+     ```sh
+      valgrind ./final
+     ```
   * Choice B: 
     ```sh
       make final2
